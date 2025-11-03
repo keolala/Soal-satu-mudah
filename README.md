@@ -1,7 +1,8 @@
-<img width="765" height="338" alt="Screenshot 2025-11-03 at 20 20 03" src="https://github.com/user-attachments/assets/6b72e700-7b9d-4d13-8fc1-cb621727d587" />
+
+<img width="760" height="314" alt="Screenshot 2025-11-03 at 20 24 07" src="https://github.com/user-attachments/assets/75d18be2-2312-4f4e-9d0b-92deafc17aa5" />
+
 SoalSatuMudah
 Deskripsi Program
-
 Program SoalSatuMudah adalah program sederhana berbasis Java yang digunakan untuk menghitung biaya pengiriman paket berdasarkan panjang, lebar, tinggi, jarak, dan berat paket.
 
 Program ini akan menghitung:
