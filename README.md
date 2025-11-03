@@ -23,7 +23,7 @@ Biaya tambahan sebesar Rp50.000, jika volume paket lebih dari 100 cm³.
 
 Total biaya = biaya utama + biaya tambahan
 
-⚙️ Cara Kerja Program
+Cara Kerja Program
 
 Pengguna diminta untuk memasukkan:
 
