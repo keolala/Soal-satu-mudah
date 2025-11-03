@@ -77,3 +77,6 @@ Menghitung biaya utama (berdasarkan berat × biaya per kg).
 Menambahkan biaya tambahan jika volume > 100 cm³.
 
 Menampilkan rincian hasil perhitungan dan total biaya yang harus dibayar.
+
+berikut adalah output yang di hasilkan :
+<img width="760" height="314" alt="Screenshot 2025-11-03 at 20 24 07" src="https://github.com/user-attachments/assets/75d18be2-2312-4f4e-9d0b-92deafc17aa5" />
